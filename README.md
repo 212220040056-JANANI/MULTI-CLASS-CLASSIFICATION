@@ -1,5 +1,7 @@
-# MULTI-CLASS-CLASSIFICATION
-## Aim:
+### EX NO: 01
+### DATE: 
+# <p align= "center">MULTI-CLASS CLASSIFICATION</p>
+### AIM:
 To write a python program to implement the multi class classification algorithm .
 
 ## Equipments Required:
