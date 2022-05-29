@@ -26,7 +26,6 @@ Program to implement the multi class classifier.
 Developed by: JANANI D
 RegisterNumber:  212220040056
 */
-
 from numpy import where
 from collections import Counter
 from sklearn.datasets import make_blobs
@@ -45,8 +44,7 @@ pyplot.show()
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/86832944/164515234-0a137422-c10d-49ae-98ef-b37e060ef476.png)
-
+![Image)](https://user-images.githubusercontent.com/86832944/170854553-b79d3701-00c8-4aa1-8fb7-4f609915590e.png)
 
 
 ## Result:
